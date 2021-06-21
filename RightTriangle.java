@@ -4,11 +4,11 @@ public class RightTriangle {
         long b = Long.parseLong(args[1]);
         long c = Long.parseLong(args[2]);
 
-        boolean RightTriangle =
+        boolean rightTriangle =
                 (a * a + b * b == c * c) || (a * a + c * c == b * b) || (b * b + c * c == a * a);
-        boolean AllPositive = (a > 0) && (b > 0) && (c > 0);
+        boolean allPositive = (a > 0) && (b > 0) && (c > 0);
 
-        boolean result = RightTriangle && AllPositive;
+        boolean result = rightTriangle && allPositive;
         System.out.println(result);
 
 
