@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2319df6-3256-40be-95bb-1a0508e8f5cf" name="Default Changelist" comment="" />
+    <list default="true" id="d2319df6-3256-40be-95bb-1a0508e8f5cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloGoodbye.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloGoodbye.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloGoodbye.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloGoodbye.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +22,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g310oCnplsrgKSBnW6Tj4oAfjQ" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.lift/stdlib.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="TaskManager">
@@ -37,6 +60,13 @@
       <workItem from="1597328243056" duration="21000" />
       <workItem from="1597328279289" duration="50000" />
       <workItem from="1597328359239" duration="8000" />
+      <workItem from="1627829384759" duration="1157000" />
+      <workItem from="1627798444712" duration="1191000" />
+      <workItem from="1627856459133" duration="267000" />
+      <workItem from="1627856740015" duration="191000" />
+      <workItem from="1627856976835" duration="319000" />
+      <workItem from="1627857314612" duration="281000" />
+      <workItem from="1627857675682" duration="904000" />
     </task>
     <servers />
   </component>
@@ -44,9 +74,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="732" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624191480079">
+    <state x="928" y="484" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627882298715">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="732" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1624191480079" />
+    <state x="928" y="484" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627882298715" />
+    <state x="1108" y="345" width="805" height="747" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1627861034568">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1108" y="345" width="805" height="747" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627861034568" />
+    <state x="888" y="380" key="FileChooserDialogImpl" timestamp="1627861294483">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="888" y="380" key="FileChooserDialogImpl/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627861294483" />
+    <state x="633" y="174" key="SettingsEditor" timestamp="1627861299599">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="633" y="174" key="SettingsEditor/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627861299599" />
   </component>
 </project>
