@@ -5,10 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2319df6-3256-40be-95bb-1a0508e8f5cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloGoodbye.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloGoodbye.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloGoodbye.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloGoodbye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BandMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BandMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barnsley.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BouncingBall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BouncingBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMYKtoRGB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMYKtoRGB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chaos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chaos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checkerboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checkerboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Computer Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coupons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coupons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscreteDistribution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscreteDistribution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Escape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Escape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exchange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralizedHarmonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralizedHarmonic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloGoodbye.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloGoodbye.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quadratic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quadratic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomWalker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomWalker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomWalkers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomWalkers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShannonEntropy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShannonEntropy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temperatures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThueMorse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThueMorse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoDimArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoDimArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/USA.txt OLD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorldMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorldMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loaded-die.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/russia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +97,19 @@
   </component>
   <component name="ProjectId" id="1g310oCnplsrgKSBnW6Tj4oAfjQ" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
+    <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.lift/stdlib.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,6 +119,46 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="Application.WorldMap">
+    <configuration name="Checkerboard" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Checkerboard" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShannonEntropy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShannonEntropy" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WorldMap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WorldMap" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Checkerboard" />
+      <item itemvalue="Application.ShannonEntropy" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.WorldMap" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="TaskManager">
@@ -67,28 +178,69 @@
       <workItem from="1627856976835" duration="319000" />
       <workItem from="1627857314612" duration="281000" />
       <workItem from="1627857675682" duration="904000" />
+      <workItem from="1627941394205" duration="83000" />
+      <workItem from="1627943721254" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="928" y="484" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627882298715">
+    <state x="1023" y="528" key="#Scopes" timestamp="1627945534455">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="928" y="484" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627882298715" />
-    <state x="1108" y="345" width="805" height="747" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1627861034568">
+    <state x="1023" y="528" key="#Scopes/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627945534455" />
+    <state x="731" y="349" width="1112" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627945847703">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="1108" y="345" width="805" height="747" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627861034568" />
-    <state x="888" y="380" key="FileChooserDialogImpl" timestamp="1627861294483">
+    <state x="731" y="349" width="1112" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627945847703" />
+    <state x="944" y="442" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1627945186928">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="888" y="380" key="FileChooserDialogImpl/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627861294483" />
-    <state x="633" y="174" key="SettingsEditor" timestamp="1627861299599">
+    <state x="944" y="442" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627945186928" />
+    <state x="1007" y="399" key="FileChooserDialogImpl" timestamp="1627945613925">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="633" y="174" key="SettingsEditor/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627861299599" />
+    <state x="1007" y="399" key="FileChooserDialogImpl/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627945613925" />
+    <state width="2518" height="385" key="GridCell.Tab.0.bottom" timestamp="1627952437302">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.bottom/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952437302" />
+    <state width="2518" height="385" key="GridCell.Tab.0.center" timestamp="1627952437302">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.center/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952437302" />
+    <state width="2518" height="385" key="GridCell.Tab.0.left" timestamp="1627952437302">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.left/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952437302" />
+    <state width="2518" height="385" key="GridCell.Tab.0.right" timestamp="1627952437302">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2518" height="385" key="GridCell.Tab.0.right/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952437302" />
+    <state x="657" y="261" key="SettingsEditor" timestamp="1627952015396">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="657" y="261" key="SettingsEditor/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952015396" />
+    <state x="859" y="311" width="840" height="1034" key="search.everywhere.popup" timestamp="1628083235944">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="859" y="311" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1628083235944" />
   </component>
 </project>
