@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="d2319df6-3256-40be-95bb-1a0508e8f5cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -109,16 +106,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.preview.features.used" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RunManager" selected="Application.WorldMap">
     <configuration name="Checkerboard" type="Application" factoryName="Application">
@@ -202,6 +200,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1166" y="568" key="#Notifications" timestamp="1631169092776">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1166" y="568" key="#Notifications/-3840.0.2560.1409/0.0.2560.1409@0.0.2560.1409" timestamp="1631169092776" />
     <state x="1023" y="528" key="#Scopes" timestamp="1627945534455">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
@@ -214,9 +216,10 @@
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="944" y="442" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627945186928" />
-    <state x="1007" y="399" key="FileChooserDialogImpl" timestamp="1627945613925">
+    <state x="1007" y="399" key="FileChooserDialogImpl" timestamp="1633774208943">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
+    <state x="1007" y="399" key="FileChooserDialogImpl/-3840.0.2560.1409/0.0.2560.1409@0.0.2560.1409" timestamp="1633774208943" />
     <state x="1007" y="399" key="FileChooserDialogImpl/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627945613925" />
     <state width="2518" height="385" key="GridCell.Tab.0.bottom" timestamp="1627952437302">
       <screen x="0" y="0" width="2560" height="1409" />
@@ -234,14 +237,21 @@
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state width="2518" height="385" key="GridCell.Tab.0.right/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952437302" />
-    <state x="-3183" y="261" key="SettingsEditor" timestamp="1629719416368">
-      <screen x="-3840" y="0" width="2560" height="1409" />
-    </state>
-    <state x="-3183" y="261" key="SettingsEditor/-3840.0.2560.1409/0.0.2560.1409@-3840.0.2560.1409" timestamp="1629719416368" />
-    <state x="657" y="261" key="SettingsEditor/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952015396" />
-    <state x="859" y="311" width="840" height="1034" key="search.everywhere.popup" timestamp="1628083235944">
+    <state x="861" y="440" key="IDE.errors.dialog" timestamp="1634021729680">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
+    <state x="-2979" y="440" key="IDE.errors.dialog/-3840.0.2560.1409/0.0.2560.1409@-3840.0.2560.1409" timestamp="1631544040197" />
+    <state x="861" y="440" key="IDE.errors.dialog/-3840.0.2560.1409/0.0.2560.1409@0.0.2560.1409" timestamp="1634021729680" />
+    <state x="657" y="261" key="SettingsEditor" timestamp="1631168966650">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="-3183" y="261" key="SettingsEditor/-3840.0.2560.1409/0.0.2560.1409@-3840.0.2560.1409" timestamp="1629719416368" />
+    <state x="657" y="261" key="SettingsEditor/-3840.0.2560.1409/0.0.2560.1409@0.0.2560.1409" timestamp="1631168966650" />
+    <state x="657" y="261" key="SettingsEditor/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1627952015396" />
+    <state x="859" y="311" width="840" height="1034" key="search.everywhere.popup" timestamp="1631168840318">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="859" y="311" width="840" height="1034" key="search.everywhere.popup/-3840.0.2560.1409/0.0.2560.1409@0.0.2560.1409" timestamp="1631168840318" />
     <state x="859" y="311" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1409/-3840.0.2560.1409/3840.562.1920.1050@0.0.2560.1409" timestamp="1628083235944" />
   </component>
 </project>

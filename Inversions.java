@@ -17,11 +17,12 @@ public class Inversions {
         // create sorted array of length n
         int[] sol = new int[n];
 
-        if (n == 0 && k == 0) return sol;
-
         for (int i = 0; i < n; i++) {
             sol[i] = i;
         }
+
+        if (n == 0 && k == 0) return sol;
+
 
         // for k > n cases
         int greedy = 1;
@@ -56,5 +57,6 @@ public class Inversions {
         for (int i = 0; i < sol.length; i++) {
             System.out.print(sol[i] + " ");
         }
+        System.out.println();
     }
 }
